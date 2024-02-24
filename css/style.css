@@ -72,3 +72,28 @@
 .navbar-toggler {
   border: none;
 }
+
+#poster a{
+  border: black 1px solid;
+}
+
+#poster h1,h2{
+  font-size: 60px;
+  font-weight: bolder; 
+}
+
+#poster p{
+  font-size: 23px;
+  color: #999999;
+}
+
+.glass{
+  position: absolute;
+  width: 151.92px;
+  height: 366.1px;
+  left: 1370.11px;
+  top: 311.16px;
+  background: rgba(255,255,255,0.4);
+  border-radius: 24.6533px 24.6533px 0px 0px;
+}
+ 
