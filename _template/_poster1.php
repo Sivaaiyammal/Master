@@ -1,9 +1,9 @@
-<section id="poster" class="p-3">
-		<div class="container">
+<section id="poster">
+		<div class="container pt-4">
 			<div class="row align-items-center justify-content-between">
-				<div class="col-md p-5">
-					<h2>MotoVibezz <br>Trusted & Realiable Online Store</h2>
-					<p class="lead">
+				<div class="col-md">
+					<h2>MotoVibezz<br>Trusted & Realiable Online Store</h2>
+					<p>
 						The automobile industry involves the design and development of different types of motor vechiles
 						& spare
 						parts.
@@ -13,9 +13,9 @@
 					</a>
 				</div>
 				<div class="col-md">
-					<img src="css/Images/NissanCar.jpg" class="img-fluid rounded-5" alt="" />
-					<div class="glass">
-					</div>
+					<img src="css/Images/NissanCar.jpg" class="rounded-5" alt="" />
+					<!-- <div class="glass">
+					</div> -->
 				</div>
 				<section class="d-none d-lg-block" id="badge">
 					<div class="badge d-flex col-10" id="text1">

@@ -84,27 +84,27 @@ h2 {
 }
 
 #poster p {
-  font-size: 23px;
+  /* font-size: 23px; */
   color: #999999;
 }
 
-.glass {
+/* .glass {
   position: absolute;
   width: 151.92px;
   height: 366.1px;
-  left: 1370.11px;
+  left: 82rem;
   top: 311.16px;
   background: rgba(255, 255, 255, 0.4);
   border-radius: 24.6533px 24.6533px 0px 0px;
-}
+} */
 
 .badge {
   width: 74em;
   height: 93px;
   background-color: white;
   border-radius: 100px;
-  margin-top: -48px;
-  margin-left: 38px;
+  margin-top: -9px;
+  margin-left: -10px;
   box-shadow: 8px 12px 12px lightgrey;
   color: #909090;
   font-family: "Poppins", sans-serif;
